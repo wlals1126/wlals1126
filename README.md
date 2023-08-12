@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Instagram Badge](https://img.shields.io/badge/instagram-e1306c?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/y.novtwentysix/)](https://www.instagram.com/y.novtwentysix/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zzzzm1n126@gmail.com)](mailto:zzzzm1n126@gmail.com)
+
+<a href="https://solved.ac/yjm1126"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yjm1126"/></a>
