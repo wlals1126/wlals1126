@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Instagram Badge](https://img.shields.io/badge/instagram-e1306c?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/y.novtwentysix/)](https://www.instagram.com/y.novtwentysix/)
+[![Instagram Badge](https://img.shields.io/badge/instagram-e1306c?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ooyajjass/)](https://www.instagram.com/ooyajjass/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zzzzm1n126@gmail.com)](mailto:zzzzm1n126@gmail.com)
+[![Velog Badge]("https://img.shields.io/badge/wlals1126-20c997?style=flat-square&logo=velog&logoColor=white")]("https://velog.io/@wlals1126")
 
 <a href="https://solved.ac/yjm1126"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yjm1126"/></a>
