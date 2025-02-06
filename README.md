@@ -1,5 +1,11 @@
-### Hi there 👋
-
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/675243929545565799/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 <!--
 **wlals1126/wlals1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
